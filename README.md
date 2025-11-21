@@ -20,10 +20,7 @@ Install dependencies:
 pip install pdfplumber PyMuPDF
 
 ---
-
-## 📁 Project Structure
-
-
+Project Structure
 .
 ├── extract_text.py
 ├── summarize.py
@@ -34,9 +31,6 @@ pip install pdfplumber PyMuPDF
     ├── summarize.json
     ├── legislation_extracted.json
     └── rule_check_task4.json
-
-
----
 
 # 🚀 1. Text Extraction (`extract_text.py`)
 
