@@ -22,15 +22,17 @@ pip install pdfplumber PyMuPDF
 ---
 Project Structure
 .
-├── extract_text.py
-├── summarize.py
-├── key_section.py
-├── rule_check.py
-└── outputs/
-    ├── extracted_text.json
-    ├── summarize.json
-    ├── legislation_extracted.json
-    └── rule_check_task4.json
+├──extract_text.py
+├──summarize.py
+├──key_section.py
+├──rule_check.py
+└──outputs/
+    ├──extracted_text.json
+    ├──summarize.json
+    ├──legislation_extracted.json
+    └──rule_check_task4.json
+
+---
 
 # 🚀 1. Text Extraction (`extract_text.py`)
 
