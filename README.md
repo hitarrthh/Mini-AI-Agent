@@ -23,7 +23,7 @@ pip install pdfplumber PyMuPDF
 
 ## 📁 Project Structure
 
-.
+
 ├── extract_text.py
 ├── summarize.py
 ├── key_section.py
