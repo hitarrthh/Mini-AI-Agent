@@ -1,0 +1,38 @@
+[
+    {
+        "rule": "Act must define key terms",
+        "status": "pass",
+        "evidence": "means the all items consumer prices index \npublished by the Statistics Board; \n(b) \na “relevant power” means— \n(i) \nthe power in section 9(2) of the Welfare Reform Act 2012, or \n(ii) \nthe power in section 150(2)(b) of the Social Security \nAdministration Act 1992; \n(c) \n“the standard allowance” means the allowance to be included in an \naward of universal credit under section 9(1) of the Welfare Reform \nAct 2012; \n(d) \nthe standard allowance “for” a tax year means the standard allowance \napplicabl",
+        "confidence": 90
+    },
+    {
+        "rule": "Act must specify eligibility criteria",
+        "status": "pass",
+        "evidence": "entitled, the sum of those amounts for the current tax year \nis at least (in each case) the amount given by increasing— \nUniversal Credit Act 2025 (c. 22) \n4 \n(a) \nthe sum of those amounts for the previous tax year, by \n(b) \nthe relevant CPI percentage for the current tax year. \n(5) \nIn this section— \n(a) \nan “amount of the ESA IR personal allowance” means an amount— \n(i) \nthat is prescribed under section 4(2)(a) of the Welfare Reform \nAct 2007 (amount of income-related allowance), and \n(ii) \nth",
+        "confidence": 90
+    },
+    {
+        "rule": "Act must specify responsibilities of the administering authority",
+        "status": "pass",
+        "evidence": "must exercise a relevant power in order to secure that \nthe amounts of the standard allowance for tax years 2026-27 to 2029-30 are \nat least the amounts calculated for each tax year in accordance with subsection \n(2). \n(2) \nThe minimum amounts of the standard allowance for a tax year are calculated \nas follows— \nStep 1 \nWhere the tax year is 2026-27, take the amounts of the standard allowance \nfor tax year 2025-26. \nWhere the tax year is 2027-28, 2028-29 or 2029-30, take the amounts resulting \nf",
+        "confidence": 90
+    },
+    {
+        "rule": "Act must include enforcement or penalties",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 20
+    },
+    {
+        "rule": "Act must include payment calculation or entitlement structure",
+        "status": "pass",
+        "evidence": "allowance for tax years 2026-27 to 2029-30 \n2 \nLCWRA element for tax year 2026-27 \n3 \nFreeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 \n4 \nProtected LCWRA amount for tax years 2026-27 to 2029-30 \n5 \nLegacy employment and support allowance payments \nCorresponding provision for Northern Ireland \n6 \nCorresponding provision for Northern Ireland \nShort title \n7 \nShort title \nAmendments to the Universal Credit Regulations 2013 in \nconnection with new amounts of the LCWRA element \nSche",
+        "confidence": 90
+    },
+    {
+        "rule": "Act must include record-keeping or reporting requirements",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 20
+    }
+]
